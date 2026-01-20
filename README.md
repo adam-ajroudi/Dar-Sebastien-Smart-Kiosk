@@ -201,16 +201,6 @@ This project is being developed specifically for Dar Sebastien. If you're intere
 
 ---
 
-## 📄 License
-
-**Proprietary Software** - All Rights Reserved
-
-This software is developed exclusively for the International Cultural Center of Hammamet (Dar Sebastien). Unauthorized copying, modification, distribution, or use of this software is strictly prohibited.
-
-© 2026 - Developed for Centre Culturel International de Hammamet
-
----
-
 <div align="center">
 
 **Developed with ❤️ for the preservation and celebration of Tunisian cultural heritage**
